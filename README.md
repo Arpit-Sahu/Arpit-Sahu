@@ -15,7 +15,7 @@ Hi, I'm Arpit Sahu, an IT sophomore at KIIT University.
 
 **Talking about Personal Stuffs:**
 
-- 🛠 Skills: Flutter, Unity, Web Dev;
+- 🛠 Skills: Flutter, Unity, Web Dev, UI design;
 - 📫 reach me on: arpitsahu1911@gmail.com;
 
 
